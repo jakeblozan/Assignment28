@@ -13,6 +13,7 @@ Note: your final program will have to use two classes (runner + one other class)
 but it would probably be a good idea to at least think about the methods you would be using in your class.
 
 Convert int to String: Integer.toString(num)
+
 Convert int to char: Character.forDigit(num, 10)
 
 ### Sample Outputs
