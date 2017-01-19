@@ -14,7 +14,7 @@ but it would probably be a good idea to at least think about the methods you wou
 
 ## Second Step
 
-Make sure your structure your program into two classes and paste in your code from step 1, if you haven't already. Think about what class variables you will need, what needs to
+Make sure you structure your program into two classes and paste in your code from step 1, if you haven't already. Think about what class variables you will need, what needs to
 be done in the constructor, and what methods you need.
 
 Remember that the only code inside the Runner should be for getting player names, creating the Board object, and calling methods. All game logic should be in your Board class.
